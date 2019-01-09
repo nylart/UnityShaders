@@ -1,5 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/SetColor.shader">
+    <Files>
+      <File FileName="Assets/Shaders/SetColor.shader" Line="38" Column="2" />
+      <File FileName="Assets/Shaders/SetColor.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
